@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "adv-java-animals/1.0.0": {
+        "runtime": {
+          "adv-java-animals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adv-java-animals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
